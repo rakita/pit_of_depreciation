@@ -1,2 +1,2 @@
-# pit_of_depreciation
-Temp repo that would use for deprecated repos.
+
+`revm-precompiles` was renamed to `revm-precompile` to be more consistent with other `revm` crates.

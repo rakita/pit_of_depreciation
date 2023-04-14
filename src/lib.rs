@@ -1,0 +1,1 @@
+compile_error!("Crate `revm_precompiles` was renamed to `revm-precompile`");
